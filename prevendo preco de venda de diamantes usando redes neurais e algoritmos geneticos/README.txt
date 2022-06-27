@@ -1,0 +1,1 @@
+Fazemos a previsão do preço de diamantes usando redes neurais. Para escolher a arquitetura da rede, foi usado um algoritmo genético que fez uma busca na arquitetura mais eficiente.
