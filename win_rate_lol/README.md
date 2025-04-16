@@ -1,7 +1,8 @@
 # Código para ajudar na tomada de decisão em partidad de league of legends
 
-O programa champ_select_stats_sup deve ser aberto durante uma partida de league of legends. Após ser aberto, o programa vai procurar na tela o nome
-dos campeões do outro time e gerar uma tabela com a taxa de vitória do campeão que você escolheu contra os campeões escolhidos pelo time inimigo. Os
-dados serão retirados do arquivo wr_tables_sup.py e gerados por "save wr files.ipynb". Aqui temos apenas o programa que gera estatísticas para a
-posição de suporte, mas é possível ajustar as variáveis do programa para as posições de top e jungle. O programa pode não funcionar em todas as telas
+- O programa champ_select_stats_sup deve ser aberto durante uma partida de league of legends. Após ser aberto, o programa vai procurar na tela o nome
+dos campeões do outro time e gerar uma tabela com a taxa de vitória do campeão que você escolheu contra os campeões escolhidos pelo time inimigo.
+
+- Os dados serão retirados do arquivo wr_tables_sup.py e gerados por "save wr files.ipynb". Aqui temos apenas o programa que gera estatísticas para a
+posição de suporte, mas é possível ajustar os parâmetros do programa para as posições de top e jungle. O programa pode não funcionar em todas as telas
 já que ele lê partes específicas da tela, mas é possível ajustar a região de leitura e o programa funcionará perfeitamente.
