@@ -1,1 +1,1 @@
-
+Esse programa acessa a api da riot games e extrai informações de jogos do jogo league of legends. A api tem uma limitação de 100 requisições a 2 minutos para projetos pessoais como esse, então a quantidade de informação que se pode extrair fica limitada por conta disso, mesmo assim ainda é possível usar os dados para avaliar contas específicas de jogadores e usar isso para buscar insights sobre como a pessoa joga.
