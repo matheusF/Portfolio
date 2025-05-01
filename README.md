@@ -1,0 +1,3 @@
+Há cerca de 1 ano, acabei deletando os arquivos do github por acidente e pouco tempo depois, ocorreu um acidente no meu computador enquanto eu tentava fazer um dual boot que corrompeu o meu windows, por tive que formatar o computador e perdi todos os arquivos que eu tinha no portifólio. Desde então estou trabalhando em alguns projetos para refazer meu portifólio e por isso não tenho tanta coisa.
+
+Por enquanto, tenho apenas projetos de web scraping usando python, mas pretendo ir adicionando projetos com Power BI, R, bancos de dados relacionais e Java; e também vou pretendo fazer projetos usando machine learning e análise de dados usando scikit learn, pandas e seaborn.
