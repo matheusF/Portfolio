@@ -1,8 +1,5 @@
-# Matheus Ferreira
-## Dados Pessoais
-- Nome: Matheus Ferreira dos Santos
-- E-mail: matheus.ferreira@alu.ufc.br
-- Telefone: 85 9 9253 2985
+# Matheus Ferreira dos Santos
+- matheus.ferreira@alu.ufc.br | 85 9 9253 2985
 - LinkedIn: https://www.linkedin.com/in/matheus-ferreira-a0b84b145/
 - Portfólio: http://github.com/matheusF/Portfolio
 ## Resumo Profissional
