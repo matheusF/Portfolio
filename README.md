@@ -34,6 +34,7 @@ Subárea: Métodos Computacionais em Ciência de Dados.
 Área de pesquisa: Algoritmo Bootstrap / Funções Cópula
 Local: Universidade Federal do Ceará
 - Segundo lugar no resultado final da seleção e maior nota na prova de seleção (2025.2).
+- Pesquisa (Otimização de Algoritmo Bootstrap (Framework CJAMP)): Reduziu o tempo de execução de 1 hora (com 1.000 reamostras) para apenas 2 minutos (com 4.000 reamostras) ao realizar testes de Wald em parâmetros de funções cópula com marginais gaussianos. O aumento de eficiência computacional foi obtido através da implementação de derivação simbólica, vetorização de processos e uso de JIT Compiler, permitindo uma análise 30 vezes mais rápida, mesmo com o quádruplo do volume de dados.
 ### Bacharelado em Estatística - Completo em 2023
 Local: Universidade Federal do Ceará (UFC)
 - Desenvolvi habilidades ligadas à extração, organização e análise de dados, tanto do ponto de vista teórico quanto prático.
