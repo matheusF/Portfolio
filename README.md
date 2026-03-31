@@ -7,6 +7,8 @@ Estatístico e mestrando em Modelagem Matemática com sólida base em inferênci
 ## Projetos
 ### Seleção de variáveis de uma random forest regression usando algoritmos genéticos
 Implementação de uma pipeline de otimização de hiperparâmetros para o modelo Random Forest Regressor utilizando algoritmos genéticos por meio da biblioteca DEAP. O sistema automatiza a busca por configurações ideais de modelos de aprendizado de máquina, utilizando uma função de fitness personalizada que pondera o erro quadrático médio (RMSE) e a eficiência computacional (tempo de execução). Por meio da aplicação de operadores evolutivos como crossover e mutação no dataset California Housing, o projeto demonstrou a capacidade de reduzir custos de processamento, mantendo alta performance preditiva.
+### Algoritmo Bootstrap BCa em C
+Implementação completa do método BCa do algoritmo bootstrap em C; o método BCa é a versão mais precisa do algoritmo. Redução de 60% no tempo de execução quando comparado com a versão já otimizada em Cython.
 ### API Riot Games
 Implementação de integração com a API da Riot Games para coleta de dados de jogadores. Desenvolvido sistema de controle de taxa de requisições para contornar limites da API em projetos pessoais, além de mecanismo de persistência para armazenamento e reutilização dos dados coletados. A ferramenta permite avaliar contas individuais e identificar fatores que impactam o desempenho dos jogadores.
 ### Tomada de decisão automatizada no jogo League of Legends
