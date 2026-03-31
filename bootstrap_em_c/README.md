@@ -1,0 +1,1 @@
+Implementação completa do método BCa do algoritmo bootstrap em C; o método BCa é a versão mais precisa do algoritmo. Redução de 60% no tempo de execução quando comparado com a versão já otimizada em Cython.
