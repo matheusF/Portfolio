@@ -5,8 +5,8 @@
 ## Resumo Profissional
 Estatístico e mestrando em Modelagem Matemática com sólida base em inferência estatística, otimização e programação científica (Python/R/C). Experiência no desenvolvimento de pipelines de dados, modelos de machine learning e automação de processos. Focado na resolução de problemas complexos através de rigor matemático e técnicas avançadas de análise de dados.
 ## Projetos
-### Seleção de variáveis de uma random forest regression usando algoritmos genéticos
-Implementação de uma pipeline de otimização de hiperparâmetros para o modelo Random Forest Regressor utilizando algoritmos genéticos por meio da biblioteca DEAP. O sistema automatiza a busca por configurações ideais de modelos de aprendizado de máquina, utilizando uma função de fitness personalizada que pondera o erro quadrático médio (RMSE) e a eficiência computacional (tempo de execução). Por meio da aplicação de operadores evolutivos como crossover e mutação no dataset California Housing, o projeto demonstrou a capacidade de reduzir custos de processamento, mantendo alta performance preditiva.
+### Otimização de Modelos de Machine Learning com Algoritmo Genético
+Pipeline para seleção de hiperparâmetros de modelos de machine learning (Random Forest, KNN e Gradient Boosting) via biblioteca DEAP, a função de custo usa uma penalidade proporcional ao tempo de execução, equilibrando performance preditiva e eficiência computacional. Os 10 melhores modelos obtidos de cada classe pelo algoritmo genético são submetidos a uma validação cruzada para decidir o modelo final. Além da otimização dos parâmetros, foi verificado que houve remoção total de overfitting e underfitting, antes mesmo da aplicação da validação cruzada.
 ### Algoritmo Bootstrap BCa em C
 Implementação completa do método BCa do algoritmo bootstrap em C; o método BCa é a versão mais precisa do algoritmo. Redução de 60% no tempo de execução quando comparado com a versão já otimizada em Cython.
 ### API Riot Games
